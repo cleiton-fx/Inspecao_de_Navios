@@ -1,7 +1,7 @@
 # Inspecao_de_Navios
 Analise de dados de Inspeção de Navios de Cruzeiro com SQL
 
-![1.1.png](https://github.com/cleiton-fx/Inspecao_de_Navios/blob/master/imagens/1.1png)
+![1.1.jpg](https://github.com/cleiton-fx/Inspecao_de_Navios/blob/master/imagens/1.1.jpg))
 ![2.png](https://github.com/cleiton-fx/Inspecao_de_Navios/blob/master/imagens/2.png)
 ![3.png](https://github.com/cleiton-fx/Inspecao_de_Navios/blob/master/imagens/3.png)
 ![4.png](https://github.com/cleiton-fx/Inspecao_de_Navios/blob/master/imagens/4.png)
